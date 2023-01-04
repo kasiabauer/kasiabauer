@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @kasiabauer
 - 👀 I’m interested in developing marketing performance tools in Python
-- 🌱 I’m currently learning Python
+- 👩‍🚀 I’ve finished Python CodersLab.pl bootcamp
+- 👩‍🚀 I’ve finished Mimo Python course
+- 👩‍🚀 I’ve finished Django CodersLab.pl bootcamp
+- 👩‍🚀 I've finished JavaScript CodersLab.pl bootcamp
+- 👩‍🚀 I’ve finished SQL CodersLab.pl bootcamp
+- 🌱 I’m currently learning JavaScript React via bootcamp
 - 💞️ I’m looking to collaborate on Python knowledge exchange
 - 📫 How to reach me https://kasiabauer.pl
 
