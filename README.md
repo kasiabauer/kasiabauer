@@ -5,7 +5,7 @@
 - 👩‍🚀 I’ve finished Django CodersLab.pl bootcamp
 - 👩‍🚀 I've finished JavaScript CodersLab.pl bootcamp
 - 👩‍🚀 I’ve finished SQL CodersLab.pl bootcamp
-- 🌱 I’m currently learning JavaScript React via bootcamp
+- 🌱 I’ve finished JavaScript React Redux via bootcamp
 - 💞️ I’m looking to collaborate on Python knowledge exchange
 - 📫 How to reach me https://kasiabauer.pl
 
