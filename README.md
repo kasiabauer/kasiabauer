@@ -3,16 +3,16 @@
 - 🌱 I am currently looking for work as back-end developer
 - 💅🏻 I am currently polishing my public repositories (Weather_App, Ads_Generator & Give-to-Foundation)
 - 💞️ I’m looking to collaborate on Python knowledge exchange
-- 📖 I am currently cementing my memory with some Python basics with Python Crash Course Book from Eric Matthes
-- 📖 I am currently cementing my memory with some Python basics with Head First Python 2nd edition from Paul Barry
-
+- 📖 I am currently solidifying my understanding of Python's foundational concepts with Python Crash Course Book from Eric Matthes
+- 📖 I am currently reinforcing my memory of Python fundamentals with Head First Python 2nd edition from Paul Barry
+<br>
 - 👩‍🚀 I’ve finished Python CodersLab.pl bootcamp
 - 👩‍🚀 I’ve finished SQL CodersLab.pl bootcamp
 - 👩‍🚀 I’ve finished Django CodersLab.pl bootcamp
 - 👩‍🚀 I've finished JavaScript CodersLab.pl bootcamp
 - 👩‍🚀 I’ve finished JavaScript React Redux via bootcamp
 - 👩‍🚀 I’ve finished Mimo Python course
-
+<br>
 - 📫 How to reach me https://kasiabauer.pl
 
 <!---
