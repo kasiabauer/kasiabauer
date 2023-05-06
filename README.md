@@ -6,8 +6,8 @@
 - 📖 I'm currently reinforcing my memory of Python fundamentals with Head First Python 2nd edition from Paul Barry
 <br>
 
-- 💞️ I will looking to collaborate on Python knowledge exchange
-
+- 💞️ I will be looking to collaborate on Python knowledge exchange
+<br>
 
 - 👩‍🚀 I’ve finished Python CodersLab.pl bootcamp
 - 👩‍🚀 I’ve finished SQL CodersLab.pl bootcamp
