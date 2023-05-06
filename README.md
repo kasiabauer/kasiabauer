@@ -5,6 +5,7 @@
 - 📖 I'm currently solidifying my understanding of Python's foundational concepts with Python Crash Course Book from Eric Matthes
 - 📖 I'm currently reinforcing my memory of Python fundamentals with Head First Python 2nd edition from Paul Barry
 <br>
+
 - 💞️ I will looking to collaborate on Python knowledge exchange
 
 
