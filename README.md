@@ -1,7 +1,8 @@
 👋 Hi, I’m @kasiabauer
 - 👀 I’m interested in developing marketing performance tools in Python
-- 🌱 I'm currently looking for work as back-end developer
-- 💅🏻 I'm currently polishing my public repositories (Weather_App, Ads_Generator & Give-to-Foundation)
+- ⚙️ I'm currently working as a back-end developer @ Subko.co
+- ⚙️ I'm currently working scripts that use on Google Ads API
+- ⚙️ I’m currently working on OpenAI tools that support Subko.co internal processes
 - 📖 I'm currently solidifying my understanding of Python's foundational concepts with Python Crash Course Book from Eric Matthes
 - 📖 I'm currently reinforcing my memory of Python fundamentals with Head First Python 2nd edition from Paul Barry
 <br>
@@ -15,6 +16,7 @@
 - 👩‍🚀 I've finished JavaScript CodersLab.pl bootcamp
 - 👩‍🚀 I’ve finished JavaScript React Redux via bootcamp
 - 👩‍🚀 I’ve finished Mimo Python course
+- 👩‍🚀 I've finished my public repositories (Weather_App, Ads_Generator & Give-to-Foundation)
 
 <br>
 
