@@ -1,5 +1,4 @@
 👋 Hi, I’m @kasiabauer
-- 👀 I’m interested in developing marketing performance tools in Python
 - ⚙️ I'm currently working as a back-end developer @ Subko.co
 - ⚙️ I'm currently working on scripts that use on Google Ads API
 - ⚙️ I’m currently working on OpenAI tools that support Subko.co internal processes
@@ -8,6 +7,7 @@
 <br>
 
 - 💞️ I will be looking to collaborate on Python knowledge exchange
+- 👀 I’m interested in developing marketing performance tools in Python
 <br>
 
 - 👩‍🚀 I’ve finished Python CodersLab.pl bootcamp
